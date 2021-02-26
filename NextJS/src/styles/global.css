@@ -5,12 +5,12 @@
 }
 
 :root {
-  --white: #fff;
-  --background: #F2F3F5;
+  --white: #E1E1E6;
+  --background: #191622;
   --gray-line: #DCDDE0;
-  --text: #666666;
+  --text: #988BC7;
   --text-highlight: #B3B9FF;
-  --title: #2E384D;
+  --title: #44475a;
   --red: #E83F5B;
   --green: #4CD62B;
   --blue: #5965E0;
