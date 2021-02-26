@@ -35,7 +35,7 @@ This project was developed using the following technologies:
 
 ## 🔥 Preview
 
-[![Deploy with Vercel](https://vercel.com/button)](https://moveit-iqnvtqxht-birobirobiro.vercel.app/)
+[![Deploy with Vercel](https://vercel.com/button)](https://moveit-birobirobiro.vercel.app/)
 
 ## 🚀 Getting started
 
